@@ -8,3 +8,6 @@ I like several different games like Dark souls 3 and other RPG Games. I also lik
 
 ## Projects
 There are several projects that I have worked on like a texting program, Minecraft server, and remote file system.
+
+## Assignments
+Each folder in this repository will be a personal assignment in this class.
