@@ -1,0 +1,12 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "print hello and the name provided in the code",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "hello": "node helloworld.js"
+  },
+  "author": "Trent Cooley",
+  "license": "ISC"
+}
