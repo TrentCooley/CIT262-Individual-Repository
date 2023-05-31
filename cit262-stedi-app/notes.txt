@@ -1,0 +1,2 @@
+here is a command that tests the login api
+curl -d "@data.json" -H "Content-Type: application/json" -X POST https://dev.stedi.me/login
