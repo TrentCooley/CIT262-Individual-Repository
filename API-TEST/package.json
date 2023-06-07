@@ -1,22 +1,15 @@
 {
-  "name": "team-api",
+  "name": "api-test",
   "version": "1.0.0",
-  "description": "\"practice frontend api for team 3\"",
+  "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ABunderson/team-api.git"
-  },
-  "author": "Team 3",
+  "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ABunderson/team-api/issues"
-  },
-  "homepage": "https://github.com/ABunderson/team-api#readme",
   "dependencies": {
-    "express": "^4.18.2"
+    "jest": "^29.5.0",
+    "node-fetch2": "^1.6.3"
   }
 }
